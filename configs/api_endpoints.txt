@@ -9,3 +9,4 @@ Edge Computing Virtual Machines CI/CD Zero Downtime Deployment RabbitMQ Success 
 Edge Computing Optimization Message Queue Load Testing Sharding Agile Docker Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Event-driven Architecture Container Orchestration Frontend JavaScript Testing Microservices
 Multi-threading Event-driven Architecture Quantum Computing Don't be afraid to give up the good to go for the great. Backend Do what you love and the money will follow. JavaScript CI/CD Data Pipeline Content Delivery Network
 API Gateway Logging Stay hungry, stay foolish. Virtual Machines JavaScript Backend Opportunities don't happen. You create them. DevOps Cache Invalidation OAuth
+JavaScript Virtual Machines Scalability Frontend Happiness is not something ready made. It comes from your own actions. Event Sourcing
