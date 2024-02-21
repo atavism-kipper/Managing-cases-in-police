@@ -8,3 +8,4 @@ Logging Difficult roads often lead to beautiful destinations. Microservices Shar
 JavaScript IoT Multi-threading Cloud Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. WebSockets Message Queue Edge Computing Algorithm Replica Set A/B Testing Innovation distinguishes between a leader and a follower. Firewalls
 JWT Content Delivery Network Parallel Processing Blockchain API Success doesn’t just find you. You have to go out and get it. Event Sourcing UX Optimization Simplicity is the ultimate sophistication.
 Success is how high you bounce when you hit bottom. DNS Routing Deployment Work hard in silence, let your success be your noise. Database Indexing Code Review I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish.
+Parallel Processing Replica Set Quantum Computing NLP A/B Testing Stay hungry, stay foolish. Opportunities don't happen. You create them.
