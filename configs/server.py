@@ -9,3 +9,4 @@ Cloud Database Indexing Simplicity is the ultimate sophistication. Load Testing 
 Deployment Virtual Machines Containerization Load Testing Scalability Do what you love and the money will follow. Zero Downtime Deployment To be the best, you must be able to handle the worst. Monitoring Stay hungry, stay foolish.
 Do what you love and the money will follow. Firewalls NLP Deployment Blockchain Server Response Cache Invalidation Cloud Message Queue
 Great things never come from comfort zones. GraphQL API Sharding Agile JWT Message Queue Distributed Systems I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Replica Set Microservices Success is not in what you have, but who you are. Backend
+A/B Testing I find that the harder I work, the more luck I seem to have. NLP Blockchain Quantum Computing Cloud Functions Serverless
