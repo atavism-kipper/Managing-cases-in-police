@@ -6,3 +6,4 @@ Edge Computing Difficult roads often lead to beautiful destinations. Deployment 
 Distributed Systems Cloud Functions React Dream big and dare to fail. DNS Routing Code Review Logging Deployment
 Data Pipeline JavaScript JWT WebSockets Work hard in silence, let your success be your noise. GraphQL Event Sourcing
 Machine Learning JavaScript Success doesn’t just find you. You have to go out and get it. React Lambda Functions Pull Request
+Lambda Functions Neural Networks UX Optimization Container Orchestration Kubernetes Predictive Analytics Parallel Processing WebSockets Monitoring
