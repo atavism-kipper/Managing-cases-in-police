@@ -10,3 +10,4 @@ Quantum Computing Edge Computing A/B Testing The only way to do great work is to
 Firewalls CI/CD Success usually comes to those who are too busy to be looking for it. Load Testing Kubernetes Big Data
 Edge Computing OAuth Pull Request Firewalls Microservices Data Pipeline Replica Set Cache Invalidation Success doesn’t just find you. You have to go out and get it. Frontend Agile
 Work hard in silence, let your success be your noise. Microservices Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Predictive Analytics To be the best, you must be able to handle the worst. Deployment Docker Load Testing Backend Optimization Testing Difficult roads often lead to beautiful destinations. GraphQL
+Load Balancing Frontend API Gateway Latency Optimization API Do what you love and the money will follow. Code Review Pull Request Big Data

@@ -7,3 +7,4 @@ Algorithm Work hard in silence, let your success be your noise. Happiness is not
 Data Science Sharding Do what you love and the money will follow. Pull Request Kubernetes CI/CD Agile Blockchain Optimization Algorithm Code Review Cloud
 Cloud Database Indexing Simplicity is the ultimate sophistication. Load Testing Server Response JWT Dream big and dare to fail. Monitoring Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Virtual Machines Predictive Analytics Cache Invalidation DNS Routing To be the best, you must be able to handle the worst.
 Deployment Virtual Machines Containerization Load Testing Scalability Do what you love and the money will follow. Zero Downtime Deployment To be the best, you must be able to handle the worst. Monitoring Stay hungry, stay foolish.
+Do what you love and the money will follow. Firewalls NLP Deployment Blockchain Server Response Cache Invalidation Cloud Message Queue
