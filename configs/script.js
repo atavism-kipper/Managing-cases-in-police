@@ -10,3 +10,4 @@ Do what you love and the money will follow. Automation Container Orchestration S
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Backend Artificial Intelligence Distributed Systems Zero Downtime Deployment React Code Review Simplicity is the ultimate sophistication.
 Backend Artificial Intelligence Agile Containerization A/B Testing Virtual Machines Python
 Quantum Computing JWT Artificial Intelligence Content Delivery Network Kafka Testing
+Message Queue Content Delivery Network Act as if what you do makes a difference. It does. Docker Parallel Processing API Gateway Lambda Functions Load Balancing Edge Computing Simplicity is the ultimate sophistication. JWT Pull Request Containerization
