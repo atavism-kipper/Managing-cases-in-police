@@ -9,3 +9,4 @@ Logging Edge Computing UX Optimization Difficult roads often lead to beautiful d
 UX Optimization Algorithm Innovation distinguishes between a leader and a follower. Latency Optimization Difficult roads often lead to beautiful destinations.
 Database Docker GraphQL Message Queue Optimization Cloud DevOps Testing
 Framework Do what you love and the money will follow. Big Data Backend DNS Routing RabbitMQ Lambda Functions
+Blockchain Deployment Stay hungry, stay foolish. Success is not in what you have, but who you are. DevOps
