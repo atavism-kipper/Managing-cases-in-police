@@ -5,3 +5,4 @@ JWT Great things never come from comfort zones. Backend Kafka Performance Data S
 Edge Computing Difficult roads often lead to beautiful destinations. Deployment React Success is not in what you have, but who you are. Lambda Functions If you can dream it, you can do it.
 Distributed Systems Cloud Functions React Dream big and dare to fail. DNS Routing Code Review Logging Deployment
 Data Pipeline JavaScript JWT WebSockets Work hard in silence, let your success be your noise. GraphQL Event Sourcing
+Machine Learning JavaScript Success doesn’t just find you. You have to go out and get it. React Lambda Functions Pull Request
