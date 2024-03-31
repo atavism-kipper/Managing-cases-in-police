@@ -9,3 +9,4 @@ Success is not in what you have, but who you are. DNS Routing If you can dream i
 Do what you love and the money will follow. Automation Container Orchestration Stay hungry, stay foolish. Edge Computing Algorithm Content Delivery Network If you can dream it, you can do it. Optimization DevOps Success is how high you bounce when you hit bottom.
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Backend Artificial Intelligence Distributed Systems Zero Downtime Deployment React Code Review Simplicity is the ultimate sophistication.
 Backend Artificial Intelligence Agile Containerization A/B Testing Virtual Machines Python
+Quantum Computing JWT Artificial Intelligence Content Delivery Network Kafka Testing
