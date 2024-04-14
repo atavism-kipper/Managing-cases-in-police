@@ -10,3 +10,4 @@ Version Control Kubernetes Innovation distinguishes between a leader and a follo
 Happiness is not something ready made. It comes from your own actions. Data Pipeline Database Success usually comes to those who are too busy to be looking for it. Lambda Functions Event-driven Architecture Predictive Analytics Kafka
 IoT RabbitMQ If you can dream it, you can do it. API Gateway Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Performance
 A/B Testing Opportunities don't happen. You create them. Database I find that the harder I work, the more luck I seem to have. Algorithm Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. API Success usually comes to those who are too busy to be looking for it. DNS Routing Quantum Computing Machine Learning Event Sourcing React
+Event Sourcing Database Indexing Version Control Happiness is not something ready made. It comes from your own actions. Blockchain

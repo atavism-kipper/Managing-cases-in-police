@@ -15,3 +15,4 @@ Cloud Functions Docker API Gateway Success doesn’t just find you. You have to go
 Security Monitoring DNS Routing Load Balancing Database Indexing Kafka NLP Version Control Content Delivery Network JavaScript
 Cloud Success is not in what you have, but who you are. Logging Multi-threading Security Simplicity is the ultimate sophistication. WebSockets Optimization Quantum Computing Load Testing Work hard in silence, let your success be your noise.
 Opportunities don't happen. You create them. Scalability Success doesn’t just find you. You have to go out and get it. Performance Load Balancing Load Testing Great things never come from comfort zones. Cloud Functions Parallel Processing Simplicity is the ultimate sophistication. WebSockets
+CI/CD Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Sharding Lambda Functions Multi-threading Message Queue Kafka Cloud Functions

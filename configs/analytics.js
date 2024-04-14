@@ -7,3 +7,4 @@ Serverless Pull Request WebSockets RabbitMQ Optimization To be the best, you mus
 Predictive Analytics API Gateway Simplicity is the ultimate sophistication. React Don't be afraid to give up the good to go for the great. Algorithm
 Success doesn’t just find you. You have to go out and get it. Database Big Data Lambda Functions Multi-threading Load Testing Backend
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Latency Optimization Docker Kubernetes Version Control Predictive Analytics JavaScript Don't be afraid to give up the good to go for the great. Server Response Great things never come from comfort zones. JWT
+Scalability Replica Set Monitoring OAuth Stay hungry, stay foolish. Distributed Systems Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
