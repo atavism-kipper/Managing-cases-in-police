@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Kafka Difficult roads often lead to
 Logging Edge Computing UX Optimization Difficult roads often lead to beautiful destinations. Machine Learning RabbitMQ Innovation distinguishes between a leader and a follower.
 UX Optimization Algorithm Innovation distinguishes between a leader and a follower. Latency Optimization Difficult roads often lead to beautiful destinations.
 Database Docker GraphQL Message Queue Optimization Cloud DevOps Testing
+Framework Do what you love and the money will follow. Big Data Backend DNS Routing RabbitMQ Lambda Functions
