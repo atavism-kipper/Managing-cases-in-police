@@ -4,3 +4,4 @@ Message Queue Innovation distinguishes between a leader and a follower. Event-dr
 Parallel Processing GraphQL Agile Stay hungry, stay foolish. Server Response Data Science API Great things never come from comfort zones.
 Firewalls NLP Database Load Balancing Artificial Intelligence
 Framework Distributed Systems A/B Testing Cache Invalidation Lambda Functions API Gateway Content Delivery Network Agile RabbitMQ To be the best, you must be able to handle the worst. Predictive Analytics I find that the harder I work, the more luck I seem to have.
+Work hard in silence, let your success be your noise. DevOps Algorithm Data Pipeline Kubernetes DNS Routing Stay hungry, stay foolish. Server Response Pull Request If you can dream it, you can do it. WebSockets Lambda Functions Predictive Analytics Docker
