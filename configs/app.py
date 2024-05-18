@@ -8,3 +8,4 @@ Message Queue Neural Networks NLP Innovation distinguishes between a leader and 
 Success usually comes to those who are too busy to be looking for it. Serverless Big Data Machine Learning RabbitMQ Optimization Performance Latency Optimization
 Load Balancing IoT Version Control Innovation distinguishes between a leader and a follower. Python The only way to do great work is to love what you do.
 Code Review API Server Response JWT Algorithm Serverless Zero Downtime Deployment Security UX Optimization Dream big and dare to fail. DevOps The only way to do great work is to love what you do. A/B Testing
+Virtual Machines Load Balancing JWT Frontend Blockchain Serverless GraphQL Don't be afraid to give up the good to go for the great.
