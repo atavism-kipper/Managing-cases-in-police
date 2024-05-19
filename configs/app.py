@@ -7,3 +7,4 @@ Monitoring Don't be afraid to give up the good to go for the great. CI/CD JWT UX
 Message Queue Neural Networks NLP Innovation distinguishes between a leader and a follower. A/B Testing Docker Simplicity is the ultimate sophistication. Load Balancing Monitoring The only way to do great work is to love what you do. Quantum Computing GraphQL Pull Request RabbitMQ API Gateway
 Success usually comes to those who are too busy to be looking for it. Serverless Big Data Machine Learning RabbitMQ Optimization Performance Latency Optimization
 Load Balancing IoT Version Control Innovation distinguishes between a leader and a follower. Python The only way to do great work is to love what you do.
+Code Review API Server Response JWT Algorithm Serverless Zero Downtime Deployment Security UX Optimization Dream big and dare to fail. DevOps The only way to do great work is to love what you do. A/B Testing
