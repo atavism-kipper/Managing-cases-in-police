@@ -6,3 +6,4 @@ WebSockets API Cloud Functions Scalability OAuth Monitoring Multi-threading
 Virtual Machines JWT Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. React Latency Optimization Database Quantum Computing Sharding IoT
 Load Testing API Big Data Containerization Automation JWT Data Pipeline A/B Testing Python Neural Networks Agile Database Do what you love and the money will follow.
 Kafka To be the best, you must be able to handle the worst. Content Delivery Network Replica Set Load Testing Frontend Success is not in what you have, but who you are. Performance Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Docker
+Success is how high you bounce when you hit bottom. IoT Do what you love and the money will follow. API Message Queue RabbitMQ Cache Invalidation
