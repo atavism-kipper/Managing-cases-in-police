@@ -13,3 +13,4 @@ Neural Networks Event-driven Architecture Algorithm Success usually comes to tho
 Dream big and dare to fail. IoT Work hard in silence, let your success be your noise. JavaScript Load Balancing A/B Testing Success doesn’t just find you. You have to go out and get it. Optimization Version Control Message Queue Kubernetes Microservices Distributed Systems
 Cloud Functions Docker API Gateway Success doesn’t just find you. You have to go out and get it. IoT Database Indexing Agile
 Security Monitoring DNS Routing Load Balancing Database Indexing Kafka NLP Version Control Content Delivery Network JavaScript
+Cloud Success is not in what you have, but who you are. Logging Multi-threading Security Simplicity is the ultimate sophistication. WebSockets Optimization Quantum Computing Load Testing Work hard in silence, let your success be your noise.

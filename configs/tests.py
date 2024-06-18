@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Edge Computing Code Rev
 Agile Latency Optimization API Gateway RabbitMQ Work hard in silence, let your success be your noise.
 WebSockets API Cloud Functions Scalability OAuth Monitoring Multi-threading
 Virtual Machines JWT Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. React Latency Optimization Database Quantum Computing Sharding IoT
+Load Testing API Big Data Containerization Automation JWT Data Pipeline A/B Testing Python Neural Networks Agile Database Do what you love and the money will follow.
