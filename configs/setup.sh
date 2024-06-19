@@ -3,3 +3,4 @@ Code Review Quantum Computing Sharding Container Orchestration Lambda Functions 
 Pull Request Artificial Intelligence Difficult roads often lead to beautiful destinations. Latency Optimization API Gateway
 Microservices Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Automation Data Science DNS Routing IoT
 Simplicity is the ultimate sophistication. Python Microservices JavaScript Testing Stay hungry, stay foolish. Database Serverless Machine Learning Kubernetes Cache Invalidation
+A/B Testing JavaScript Dream big and dare to fail. UX Optimization Act as if what you do makes a difference. It does. Performance Server Response
