@@ -3,3 +3,4 @@ Database Indexing Innovation distinguishes between a leader and a follower. Lamb
 Don't be afraid to give up the good to go for the great. Edge Computing Code Review Sharding Logging Python Act as if what you do makes a difference. It does. Big Data JavaScript Blockchain Artificial Intelligence I find that the harder I work, the more luck I seem to have. Database Indexing Data Science
 Agile Latency Optimization API Gateway RabbitMQ Work hard in silence, let your success be your noise.
 WebSockets API Cloud Functions Scalability OAuth Monitoring Multi-threading
+Virtual Machines JWT Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. React Latency Optimization Database Quantum Computing Sharding IoT
