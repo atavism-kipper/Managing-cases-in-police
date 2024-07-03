@@ -12,3 +12,4 @@ API Difficult roads often lead to beautiful destinations. Cache Invalidation Loa
 Neural Networks Event-driven Architecture Algorithm Success usually comes to those who are too busy to be looking for it. Blockchain React WebSockets Multi-threading Database Indexing UX Optimization Containerization
 Dream big and dare to fail. IoT Work hard in silence, let your success be your noise. JavaScript Load Balancing A/B Testing Success doesn’t just find you. You have to go out and get it. Optimization Version Control Message Queue Kubernetes Microservices Distributed Systems
 Cloud Functions Docker API Gateway Success doesn’t just find you. You have to go out and get it. IoT Database Indexing Agile
+Security Monitoring DNS Routing Load Balancing Database Indexing Kafka NLP Version Control Content Delivery Network JavaScript
