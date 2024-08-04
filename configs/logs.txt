@@ -6,3 +6,4 @@ Artificial Intelligence If you can dream it, you can do it. Docker The only way 
 Work hard in silence, let your success be your noise. React Edge Computing Load Balancing Serverless Opportunities don't happen. You create them. Artificial Intelligence
 I find that the harder I work, the more luck I seem to have. Deployment The only way to do great work is to love what you do. Content Delivery Network DNS Routing Pull Request Big Data Happiness is not something ready made. It comes from your own actions. React
 Cache Invalidation Multi-threading Security API Gateway Big Data Artificial Intelligence Serverless JWT Frontend Great things never come from comfort zones. Virtual Machines Microservices Code Review A/B Testing
+WebSockets Machine Learning Sharding Lambda Functions Replica Set Cloud UX Optimization Event-driven Architecture Difficult roads often lead to beautiful destinations.
