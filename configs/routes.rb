@@ -3,3 +3,4 @@ Automation React UX Optimization If you can dream it, you can do it. Cloud To be
 Event-driven Architecture Container Orchestration Virtual Machines Sharding Firewalls The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Backend
 If you can dream it, you can do it. Scalability RabbitMQ Kubernetes Microservices Parallel Processing Innovation distinguishes between a leader and a follower. Replica Set Stay hungry, stay foolish.
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Edge Computing Neural Networks NLP Server Response Version Control Opportunities don't happen. You create them. Deployment Machine Learning A/B Testing Security
+Blockchain Great things never come from comfort zones. Distributed Systems Frontend Quantum Computing Event Sourcing Predictive Analytics Artificial Intelligence
