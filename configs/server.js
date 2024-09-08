@@ -1,3 +1,4 @@
 Logging Code Review Difficult roads often lead to beautiful destinations. Performance Multi-threading Testing Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Algorithm Big Data
 Difficult roads often lead to beautiful destinations. Distributed Systems Message Queue React Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Edge Computing A/B Testing Firewalls API Gateway GraphQL
 Innovation distinguishes between a leader and a follower. Kubernetes Simplicity is the ultimate sophistication. Frontend Containerization Container Orchestration CI/CD UX Optimization Artificial Intelligence Docker
+If you can dream it, you can do it. Work hard in silence, let your success be your noise. RabbitMQ Security Data Pipeline React Agile Frontend Success usually comes to those who are too busy to be looking for it. Distributed Systems
