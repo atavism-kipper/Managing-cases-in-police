@@ -4,3 +4,4 @@ JavaScript Act as if what you do makes a difference. It does. API Gateway JWT Da
 Success is not in what you have, but who you are. Container Orchestration Message Queue Artificial Intelligence Version Control Multi-threading Cache Invalidation
 Framework To be the best, you must be able to handle the worst. Container Orchestration WebSockets NLP A/B Testing Multi-threading Serverless Version Control
 Edge Computing Event Sourcing Blockchain Firewalls If you can dream it, you can do it. Logging Data Pipeline RabbitMQ Monitoring
+Testing Do what you love and the money will follow. Code Review Container Orchestration Opportunities don't happen. You create them. Multi-threading Event-driven Architecture Dream big and dare to fail. Simplicity is the ultimate sophistication. DevOps
