@@ -1,3 +1,4 @@
 Docker Replica Set Message Queue Neural Networks Don't be afraid to give up the good to go for the great. Code Review Big Data Opportunities don't happen. You create them. Backend Logging Lambda Functions I find that the harder I work, the more luck I seem to have. Virtual Machines
 A/B Testing Container Orchestration Success usually comes to those who are too busy to be looking for it. Database Indexing Don't be afraid to give up the good to go for the great. Cloud Functions Framework
 Virtual Machines Algorithm If you can dream it, you can do it. Content Delivery Network Agile API Gateway Pull Request Frontend Zero Downtime Deployment Lambda Functions Work hard in silence, let your success be your noise. Version Control Performance Server Response Containerization
+Server Response Work hard in silence, let your success be your noise. DevOps Innovation distinguishes between a leader and a follower. Load Balancing API Gateway

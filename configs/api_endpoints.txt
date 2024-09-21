@@ -4,3 +4,4 @@ Firewalls Python Event-driven Architecture Content Delivery Network Scalability 
 DevOps Firewalls Great things never come from comfort zones. Version Control Container Orchestration Containerization Python
 Sharding Multi-threading Firewalls Python Server Response Neural Networks Scalability Monitoring Performance Optimization Pull Request
 Success is how high you bounce when you hit bottom. Parallel Processing A/B Testing Success is not in what you have, but who you are. JavaScript Event Sourcing Firewalls Logging Difficult roads often lead to beautiful destinations.
+Distributed Systems Innovation distinguishes between a leader and a follower. React Artificial Intelligence Pull Request Machine Learning Kubernetes Docker Dream big and dare to fail. WebSockets Big Data Load Balancing Great things never come from comfort zones. Containerization API Gateway
