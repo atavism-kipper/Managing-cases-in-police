@@ -3,3 +3,4 @@ Docker Database Indexing Neural Networks Data Science To be the best, you must b
 WebSockets Simplicity is the ultimate sophistication. Testing IoT Backend Performance GraphQL Big Data Dream big and dare to fail. A/B Testing
 Cache Invalidation Pull Request Parallel Processing Neural Networks If you can dream it, you can do it. Backend
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. WebSockets Event-driven Architecture JWT Replica Set A/B Testing Great things never come from comfort zones. Version Control NLP Parallel Processing Big Data
+Data Pipeline Success is not in what you have, but who you are. RabbitMQ Performance Replica Set Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Containerization API Gateway Event Sourcing Optimization
