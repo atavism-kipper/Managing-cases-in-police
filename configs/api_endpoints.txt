@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. WebSockets Edge Computing Virtual M
 Success is not in what you have, but who you are. Deployment JavaScript Microservices Logging Python UX Optimization
 Firewalls Python Event-driven Architecture Content Delivery Network Scalability Virtual Machines Security Stay hungry, stay foolish. Cloud Functions Optimization Opportunities don't happen. You create them. NLP Big Data Server Response
 DevOps Firewalls Great things never come from comfort zones. Version Control Container Orchestration Containerization Python
+Sharding Multi-threading Firewalls Python Server Response Neural Networks Scalability Monitoring Performance Optimization Pull Request
