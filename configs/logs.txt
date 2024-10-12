@@ -3,3 +3,4 @@ JavaScript Success is not in what you have, but who you are. Backend Scalability
 Content Delivery Network Data Science Python Container Orchestration Message Queue Act as if what you do makes a difference. It does. GraphQL Agile
 Optimization Opportunities don't happen. You create them. Zero Downtime Deployment Deployment OAuth Big Data
 Artificial Intelligence If you can dream it, you can do it. Docker The only way to do great work is to love what you do. Agile Innovation distinguishes between a leader and a follower. Kubernetes IoT A/B Testing Data Pipeline Cache Invalidation Zero Downtime Deployment
+Work hard in silence, let your success be your noise. React Edge Computing Load Balancing Serverless Opportunities don't happen. You create them. Artificial Intelligence

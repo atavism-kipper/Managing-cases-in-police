@@ -3,3 +3,4 @@ Artificial Intelligence Dream big and dare to fail. Algorithm Database Logging B
 Backend I find that the harder I work, the more luck I seem to have. Big Data Parallel Processing Cloud WebSockets Frontend Scalability
 Message Queue Scalability JWT API Multi-threading Happiness is not something ready made. It comes from your own actions. Edge Computing Latency Optimization IoT Agile API Gateway
 JavaScript Virtual Machines Load Balancing I find that the harder I work, the more luck I seem to have. Event-driven Architecture Success is not in what you have, but who you are. Database Indexing Cloud Pull Request Logging Act as if what you do makes a difference. It does.
+NLP Python Frontend API Code Review Lambda Functions DevOps Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Monitoring Cloud Functions Quantum Computing
