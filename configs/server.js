@@ -1,1 +1,2 @@
 Logging Code Review Difficult roads often lead to beautiful destinations. Performance Multi-threading Testing Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Algorithm Big Data
+Difficult roads often lead to beautiful destinations. Distributed Systems Message Queue React Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Edge Computing A/B Testing Firewalls API Gateway GraphQL
