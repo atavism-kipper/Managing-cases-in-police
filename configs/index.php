@@ -1,1 +1,2 @@
 Docker Replica Set Message Queue Neural Networks Don't be afraid to give up the good to go for the great. Code Review Big Data Opportunities don't happen. You create them. Backend Logging Lambda Functions I find that the harder I work, the more luck I seem to have. Virtual Machines
+A/B Testing Container Orchestration Success usually comes to those who are too busy to be looking for it. Database Indexing Don't be afraid to give up the good to go for the great. Cloud Functions Framework
