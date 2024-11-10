@@ -2,3 +2,4 @@ The only way to do great work is to love what you do. Content Delivery Network S
 Artificial Intelligence Dream big and dare to fail. Algorithm Database Logging Backend Work hard in silence, let your success be your noise. Python Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Backend I find that the harder I work, the more luck I seem to have. Big Data Parallel Processing Cloud WebSockets Frontend Scalability
 Message Queue Scalability JWT API Multi-threading Happiness is not something ready made. It comes from your own actions. Edge Computing Latency Optimization IoT Agile API Gateway
+JavaScript Virtual Machines Load Balancing I find that the harder I work, the more luck I seem to have. Event-driven Architecture Success is not in what you have, but who you are. Database Indexing Cloud Pull Request Logging Act as if what you do makes a difference. It does.
