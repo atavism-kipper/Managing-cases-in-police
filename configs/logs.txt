@@ -2,3 +2,4 @@ Latency Optimization Big Data Happiness is not something ready made. It comes fr
 JavaScript Success is not in what you have, but who you are. Backend Scalability Event Sourcing
 Content Delivery Network Data Science Python Container Orchestration Message Queue Act as if what you do makes a difference. It does. GraphQL Agile
 Optimization Opportunities don't happen. You create them. Zero Downtime Deployment Deployment OAuth Big Data
+Artificial Intelligence If you can dream it, you can do it. Docker The only way to do great work is to love what you do. Agile Innovation distinguishes between a leader and a follower. Kubernetes IoT A/B Testing Data Pipeline Cache Invalidation Zero Downtime Deployment
