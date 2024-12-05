@@ -2,3 +2,4 @@ GraphQL Pull Request Cache Invalidation Do what you love and the money will foll
 Pull Request Artificial Intelligence A/B Testing DevOps Containerization Data Science Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Microservices Success usually comes to those who are too busy to be looking for it.
 JavaScript Act as if what you do makes a difference. It does. API Gateway JWT Data Science DNS Routing Data Pipeline DevOps Happiness is not something ready made. It comes from your own actions. Message Queue Code Review A/B Testing
 Success is not in what you have, but who you are. Container Orchestration Message Queue Artificial Intelligence Version Control Multi-threading Cache Invalidation
+Framework To be the best, you must be able to handle the worst. Container Orchestration WebSockets NLP A/B Testing Multi-threading Serverless Version Control
