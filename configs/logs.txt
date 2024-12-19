@@ -1,2 +1,3 @@
 Latency Optimization Big Data Happiness is not something ready made. It comes from your own actions. Virtual Machines DNS Routing JWT Framework Data Science OAuth Code Review Containerization Opportunities don't happen. You create them. API React
 JavaScript Success is not in what you have, but who you are. Backend Scalability Event Sourcing
+Content Delivery Network Data Science Python Container Orchestration Message Queue Act as if what you do makes a difference. It does. GraphQL Agile
