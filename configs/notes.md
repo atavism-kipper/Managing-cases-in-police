@@ -1,0 +1,1 @@
+I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. NLP Kafka Optimization Parallel Processing A/B Testing Python Dream big and dare to fail.
