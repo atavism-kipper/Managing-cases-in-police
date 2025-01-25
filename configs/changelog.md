@@ -1,1 +1,2 @@
 The only way to do great work is to love what you do. Content Delivery Network Simplicity is the ultimate sophistication. Kubernetes RabbitMQ Artificial Intelligence Event-driven Architecture Server Response Python Scalability
+Artificial Intelligence Dream big and dare to fail. Algorithm Database Logging Backend Work hard in silence, let your success be your noise. Python Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
