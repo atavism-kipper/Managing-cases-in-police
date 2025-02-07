@@ -1,0 +1,1 @@
+Distributed Systems Scalability Version Control Stay hungry, stay foolish. Great things never come from comfort zones. Containerization Event-driven Architecture I find that the harder I work, the more luck I seem to have. Monitoring Do what you love and the money will follow. OAuth Sharding Kafka Server Response Data Pipeline
